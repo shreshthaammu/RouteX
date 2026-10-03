@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Vehicle Route Simulator",
+  "description": "Professional autonomous vehicle path planning and routing simulation laboratory demonstrating BFS, Dijkstra, and A* with dynamic obstacle avoidance and variable road costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
